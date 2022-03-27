@@ -1,2 +1,2 @@
-# Desafio-github-Primeiro-Repositorio
+# Repositório do desafio de projeto Git/GitHub da DIO
 Desafio de projeto sobre Git/GitHub Bootcamp Philips Fullstack Developer 
